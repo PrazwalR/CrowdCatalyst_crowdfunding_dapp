@@ -17,7 +17,7 @@ const Footer = () => {
             We are a passionate team committed to bringing innovative ideas to 
             life. Our mission is to empower communities and individuals by 
             providing the tools and resources needed to make a real impact.
-            Created by: Prazwal,Dhanush,Rishabh,Lakshmi
+            Created by: Prazwal Ratti
             </p>
           </div>
           <div className="">
